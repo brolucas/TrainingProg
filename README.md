@@ -32,7 +32,7 @@ ___
 **Question 1 :Create a vector with the first tab**
 
 
-**Question 2 Delete the middle value of the vector**
+**Question 2 Shopw the middle value of the vector**
 
 
 **Question 3 : Add some values to the vector**
