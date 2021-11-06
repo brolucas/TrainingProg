@@ -51,9 +51,9 @@ ___
  
  **Question 1 : Create a map the key is the name and the value is the sales**
  
- **Create a function who searching the best sells in the map and show  it**
+ **Create a function who searching the best sales in the map and show  it**
 
-**Name of the function : SearchBestSells**
+**Name of the function : SearchBestSales**
 
  **Returns values: Nothing**
  
