@@ -45,8 +45,8 @@ ___
 
 
 ```cpp
-  std::string tab[3] Name = { "Demon Slayer", "Tokyo Ghoul", "Guilty Crown" };
-  int tab[3]  Sells = {6,8,25}; 
+  std::string Name[3]  = { "Demon Slayer", "Tokyo Ghoul", "Guilty Crown" };
+  int Sales[3] = {6,8,25}; 
  ```
  
  **Question 1 : Create a map the key is the name and the value is the sells**
