@@ -49,7 +49,7 @@ ___
   int Sales[3] = {6,8,25}; 
  ```
  
- **Question 1 : Create a map the key is the name and the value is the sells**
+ **Question 1 : Create a map the key is the name and the value is the sales**
  
  **Create a function who searching the best sells in the map and show  it**
 
