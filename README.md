@@ -1,5 +1,61 @@
-# 							TrainingProg Megalodon Maxime
+# 							C++ time
 
-**Create an List and a vector with the table below**
+___
+## List
+**Question 1 : Create an List  with the table below.**
 
-` std::string tab[6] = {"Jujutsu","Naruto","Bleach","Slime","Nanatsu-No-Taizai","Demon Slayer"};`
+**Don't forget the import !**
+
+
+```cpp 
+std::string tab[6] = {"Jujutsu","Naruto","Bleach","Slime","Nanatsu-No-Taizai","Demon Slayer"};
+```
+
+
+**Question 2: After that On the list delete one element out of two starting by the first**
+
+**Expected Result in the list at the end  :**
+
+```cpp 
+maliste = {"Naruto", "Slime","Demon Slayer"}; 
+```
+
+**Question 3: Add a thing in the list at the begining, in the middle and at the end.**
+
+
+___
+
+
+## Vector
+
+
+**Question 1 :Create a vector with the first tab**
+
+
+**Question 2 Delete the middle value of the vector**
+
+
+**Question 3 : Add some values to the vector**
+
+
+___
+
+
+## Map
+
+
+```cpp
+  std::string tab[3] Name = { "Demon Slayer", "Tokyo Ghoul", "Guilty Crown" };
+  int tab[3]  Sells = {6,8,25}; 
+ ```
+ 
+ **Question 1 : Create a map the key is the name and the value is the sells**
+ 
+ **Create a function who searching the best sells in the map and show  it**
+
+**Name of the function : SearchBestSells**
+
+ **Returns values: Nothing**
+ 
+ **Parameters : the map you create before**
+ 
